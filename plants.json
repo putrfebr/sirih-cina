@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Sirih Cina",
+        "scientificName": "Peperomia pellucida",
+        "image": "img/sirih-cina.jpg",
+        "otherNames": "Cendana wangi, mimba",
+
+        "benefits": [
+            "Sirih cina mengandung banyak senyawa aktif, di antaranya flavonoid, tanin, alkaloid, saponin, terpenoid, steroid, glikosida, dan triterpenoid."
+
+        ],
+        "uses": [
+            "sirih cina digunakan untuk mengatasi sakit kepala, menurunkan demam, meredakan diare, mempercepat penyembuhan luka, meringankan gejala penyakit mata seperti katarak, glaukoma, dan masih banyak lagi."
+
+        ]
+    }
+]
